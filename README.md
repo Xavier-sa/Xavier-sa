@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=wellingtonxs&color=006bed" alt="Profile views" />
 </div>
 
-# Em busca de oportunidade para agregar valor à empresa e aprender cada vez mais! 🚀
+# Em busca de oportunidade para agregar valor e aprender cada vez mais! 🚀
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
