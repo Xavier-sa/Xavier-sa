@@ -2,7 +2,8 @@
 <div style="display: flex; justify-content: flex-end; align-items: center;">
     <img src="https://komarev.com/ghpvc/?username=wellingtonxs&color=006bed" alt="Profile views" />
 </div>
-# ---------------------------------------------------------
+
+#  ---------------------------------------------------------
 
 # Em busca de oportunidade para agregar valor e
 # aprender cada vez mais! 🚀
