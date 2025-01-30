@@ -5,8 +5,8 @@
 
 #  ---------------------------------------------------------
 
-# Em busca de oportunidade para agregar valor e
-# aprender cada vez mais! 🚀
+# Em busca de oportunidade.
+# Não sei fazer, mas, se voce me orientar, eu aprendo e faço bem feito.
 # ---------------------------------------------------------
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
