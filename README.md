@@ -8,8 +8,8 @@
 
 ## ✨ Sobre mim
 
-> **"Não sei fazer, mas, se você me orientar, eu aprendo e faço bem feito."**  
-> Em constante evolução 🌱
+**"Não sei fazer, mas, se você me orientar, eu aprendo e faço bem feito."**  
+Em constante evolução 🌱
 
 Sou um entusiasta da programação em busca de conhecimento contínuo. Gosto de resolver problemas, aprender novas tecnologias e contribuir com projetos práticos.
 
@@ -49,5 +49,5 @@ Sou um entusiasta da programação em busca de conhecimento contínuo. Gosto de 
 ---
 
 <p align="center">
-  Feito com 💙 por <strong>Xavier</strong> — Em constante evolução 🌱
+  Feito  por <strong>Xavier</strong> — Em constante evolução 🌱
 </p>
