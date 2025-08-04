@@ -49,5 +49,8 @@ Sou um entusiasta da programação em busca de conhecimento contínuo. Gosto de 
 ---
 
 <p align="center">
-  Feito  por <strong>Xavier</strong> — Em constante evolução 🌱
+  Se você leu até aqui, já ganhou meu respeito. 😉<br>
+  Feito por <strong>Xavier</strong>, sempre buscando evoluir 🌱<br>
+  Nunca subestime o poder de quem acredita no próprio potencial! 💪🔥
 </p>
+
