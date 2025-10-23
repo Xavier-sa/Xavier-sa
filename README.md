@@ -44,7 +44,7 @@ Sou um entusiasta da programação em busca de conhecimento contínuo. Gosto de 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/wellington-xavier-90a004300)
-[![GitHub](https://img.shields.io/badge/GitHub-Xavier--sa-black?logo=github&style=flat-square)](https://github.com/Xavier-sa)
+
 
 ---
 
