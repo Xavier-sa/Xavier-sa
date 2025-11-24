@@ -34,7 +34,7 @@ Sou um entusiasta da programação em busca de conhecimento contínuo. Gosto de 
 
 ## 🧩 Soft Skills
 
-![Proatividade](https://img.shields.io/badge/-Proatividade-4CAF50?style=flat-square&logo=check-circle&logoColor=white)
+![Proatividade](https://img.shields.io/badge/-Proatividade-4CAF50?style=flat-square&logo=check-circle&logoColor=white) -Antecipo problemas e busco soluções
 ![Foco em resolver problemas](https://img.shields.io/badge/-Foco%20em%20resolver%20problemas-FF5722?style=flat-square&logo=target&logoColor=white)
 ![Vontade de aprender](https://img.shields.io/badge/-Vontade%20de%20aprender-FF9800?style=flat-square&logo=lightbulb&logoColor=white)
 ![Adaptabilidade e resiliência](https://img.shields.io/badge/-Adaptabilidade%20e%20resiliência-2196F3?style=flat-square&logo=loop&logoColor=white)
