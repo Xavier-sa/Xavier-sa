@@ -1,13 +1,10 @@
-<h1 align="center" style="font-size: 48px;">Wellington Xavier</h1>
-<h3 align="center">Developer</h3>
-
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=wellingtonxs&color=006bed" alt="Profile views" />
 </div>
 
 ---
-
+<h1 align="center" style="font-size: 68px;">Wellington Xavier</h1>
+<h3 align="center">Developer</h3>
 ## ✨ Sobre mim
 
 **"Não sei fazer, mas, se você me orientar, eu aprendo e faço bem feito."**  
