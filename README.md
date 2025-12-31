@@ -70,15 +70,9 @@ Atualmente, meu foco é o **Backend moderno**, construindo APIs e aplicações w
 ---
 
 <p align="center">
-  Feito por <strong>Xavier</strong>. <i>"Framework muda, fundamento fica."</i> 🌱<br>
+  <i>"Framework muda, fundamento fica."</i> 🌱<br>
   Nunca subestime o poder de quem acredita no próprio potencial! 💪🔥
-</p>
-
----
-
-<p align="center">
   Se você leu até aqui, já ganhou meu respeito. 😉<br>
   Feito por <strong>Xavier</strong>, sempre buscando evoluir 🌱<br>
-  Nunca subestime o poder de quem acredita no próprio potencial! 💪🔥
 </p>
 
