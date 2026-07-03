@@ -8,7 +8,7 @@
 
 # Wellington Xavier
 
-### 💻 Desenvolvedor de Software
+### 💻 Desenvolvedor Full Stack em Formação
 
 *"Transformo problemas desconhecidos em soluções estruturadas. Movido por desafios e aprendizado contínuo."*
 
