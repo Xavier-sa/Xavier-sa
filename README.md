@@ -92,7 +92,7 @@ Plataforma web voltada para divulgação do turismo regional.
 
 ---
 
-### 🧠 PsicoDara
+### 🧠 PsicoX
 
 Sistema web para gestão de atendimentos em clínica de psicologia.
 
